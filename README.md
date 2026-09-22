@@ -32,7 +32,7 @@ The data is split chronologically:
 
 This allows the model to use earlier Olympic results to predict later results.
 
-## 🤖 Machine Learning
+## Machine Learning
 
 This project uses **Linear Regression** to predict the number of medals.
 
